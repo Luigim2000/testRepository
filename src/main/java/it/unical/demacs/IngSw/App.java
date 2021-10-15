@@ -12,5 +12,6 @@ public class App
         DateTime joda=new DateTime();
         System.out.println(joda.toString());
         System.out.println(StringUtils.toUpperCase("Hello world"));
+        System.out.println(StringUtils.toUpperCase("Hello world 2"));
     }
 }
